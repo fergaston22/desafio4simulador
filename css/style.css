@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(230, 53, 9, 0.993);
+    color: floralwhite;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 23px;
+    text-align: center;
+    font-family: cursive;
+    margin-bottom: 20px;
+}
